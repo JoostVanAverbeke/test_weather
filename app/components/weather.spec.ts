@@ -1,4 +1,4 @@
-import {fakeAsync, beforeEach, beforeEachProviders, describe, inject, it} from '@angular/core/testing';
+import {fakeAsync, beforeEach, beforeEachProviders, describe, inject, it, expect} from '@angular/core/testing';
 import {TestComponentBuilder} from '@angular/compiler/testing';
 import {Observable} from 'rxjs/Observable';
 import 'rxjs/add/observable/empty';
